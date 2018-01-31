@@ -110,4 +110,4 @@ msgstr "Bibliothèque"
 
 #: ../src/Dialogs/Preferences.vala:60
 msgid "Use Dark Theme"
-msgstr ""
+msgstr "Thème Sombre"
